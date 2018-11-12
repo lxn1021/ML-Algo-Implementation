@@ -8,3 +8,6 @@ The implementation of the course's assignments in Python. Below is the table of 
     
     [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20One%20Variable_2.ipynb)
     
+
+- Linear Regression with Multiple Variables
+    
