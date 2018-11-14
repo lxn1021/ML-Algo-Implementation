@@ -1,6 +1,8 @@
 ## **Coursera Online Course --- Machine Learning by Andrew Ng**
 
-The implementation of the course's assignments in Python (Some questions still unsolved. Will update from time to time). Below is the table of contents:
+The implementation of the course's assignments in Python (Some questions still unsolved. Will update from time to time). 
+
+Below is the table of contents:
 
 - Linear Regression with One Variable
 
