@@ -1,6 +1,6 @@
 ## **Coursera Online Course --- Machine Learning by Andrew Ng**
 
-The implementation of the course's assignments in Python (Some questions still unsolved. Will update from time to time). 
+This repository includes the summary of fundamental Machine Learning algorithms taught by the course, and their implementation in Python (In the course, the algorithms are implemented in Octave). Some questions still unsolved. Will update from time to time. 
 
 Below is the table of contents:
 
