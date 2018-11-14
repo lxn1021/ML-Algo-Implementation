@@ -19,3 +19,5 @@ The implementation of the course's assignments in Python. Below is the table of 
 - Logistic Regression
     
     [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20regression.pdf)
+    
+    [Python Implementation]()
