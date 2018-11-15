@@ -31,4 +31,4 @@ Below is the table of contents:
     
     [Python Implementation --- Multi-class Classification and Neural Networks](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Multi-class%20Classification%20and%20Neural%20Networks_2.ipynb)
 
-    [Python Implementation --- Neural Networks Learning]()
+    [Python Implementation --- Neural Networks Learning](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20Networks%20Learning_2.ipynb)
