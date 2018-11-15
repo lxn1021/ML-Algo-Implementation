@@ -29,4 +29,4 @@ Below is the table of contents:
     
     [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20networks.pdf)
     
-    [Python Implementation --- Multi-class Classification and Neural Networks]()
+    [Python Implementation --- Multi-class Classification and Neural Networks](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Multi-class%20Classification%20and%20Neural%20Networks_2.ipynb)
