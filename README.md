@@ -27,4 +27,4 @@ Below is the table of contents:
 
 - Multi-class Classification and Neural Networks
     
-    [Formula]()
+    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20networks.pdf)
