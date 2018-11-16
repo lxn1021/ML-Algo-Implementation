@@ -37,4 +37,6 @@ Below is the table of contents:
 - Regularized Linear Regression and Bias v.s. Variance
 
     [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20linear%20regression%20and%20bias%20v.s.%20variance.pdf)
+    
+    [Python Implementation]
 
