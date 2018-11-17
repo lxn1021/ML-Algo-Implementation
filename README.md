@@ -40,3 +40,8 @@ Below is the table of contents:
     
     [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance_2.ipynb)
 
+
+- Support Vector Machines
+
+    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.pdf)
+
