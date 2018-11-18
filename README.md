@@ -46,4 +46,6 @@ Below is the table of contents:
     [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.pdf)
     
     [Simplified SMO Algorithms](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Simplified%20SMO%20Algorithm.pdf)
+    
+    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
 
