@@ -51,3 +51,5 @@ Below is the table of contents:
 
 
 - K-means Clustering and Principal Component Analysis
+    
+    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.pdf)
