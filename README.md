@@ -49,3 +49,5 @@ Below is the table of contents:
     
     [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
 
+
+- K-means Clustering and Principal Component Analysis
