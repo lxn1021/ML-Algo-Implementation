@@ -2,7 +2,7 @@
 
 This repository contains some entry-level Machine Learning knowledge taught by Andrew Ng on Coursera. Topics covered by the course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression,   ), Regularization, Overfitting,  By taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, 
 
-The course eassignment is performed in Octave software. I reproducted 
+The course eassignment is performed in Octave software. I reproduced the same task within Python in order to 1) get more familiar with Python syntax; 2) get a better intuition of the knowledge learnt.
 
 Below is the table of contents:
 
