@@ -1,6 +1,6 @@
 ## **Coursera Online Course --- Machine Learning by Andrew Ng**
 
-This repository contains some entry-level Machine Learning knowledge taught by Andrew Ng on Coursera. Topics covered by the course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression,    By taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, 
+This repository contains some entry-level Machine Learning knowledge taught by Andrew Ng on Coursera. Topics covered by the course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression,   ), Regularization, Overfitting,  By taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, 
 
 The course eassignment is performed in Octave software. I reproducted 
 
