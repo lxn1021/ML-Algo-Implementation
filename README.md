@@ -27,9 +27,13 @@ The course eassignment is performed in Octave software. I reproduced the same ta
 
 - **Linear Regression with Multiple Variables**
     
-    [Lecture Slids](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%204.pdf)
+    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%204.pdf)
 
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20Multiple%20Variables_2.ipynb)
+    
+    Tasks performed: Read in CSV source file, horizontally stack two data sets, feature normalization, cost function, Gradient Descent, visualize the cost function variations over iterations.
+    
+    Data manipulation skills covered: Data type conversion, data append, vector computation, plot.
     
 
 - Logistic Regression
