@@ -20,9 +20,9 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20One%20Variable_2.ipynb)
     
-    -- Tasks performed: Read in CSV source file, visualize the relationship between X and Y in scatter plot, cost function implementation, Gradient Descent.
+    -- **Tasks performed:** Read in CSV source file, visualize the relationship between X and Y in scatter plot, cost function implementation, Gradient Descent.
     
-    -- Data manipulations skills covered: Data type conversion, scatter plot, contour plot, iteration. 
+    -- **Data manipulations skills covered:** Data type conversion, scatter plot, contour plot, iteration. 
     
 
 - ### **Linear Regression with Multiple Variables**
@@ -31,9 +31,9 @@ The course eassignment is performed in Octave software. I reproduced the same ta
 
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20Multiple%20Variables_2.ipynb)
     
-    -- Tasks performed: Read in CSV source file, horizontally stack two data sets, feature normalization, cost function, Gradient Descent, visualize the cost function variations over iterations.
+    -- **Tasks performed:** Read in CSV source file, horizontally stack two data sets, feature normalization, cost function, Gradient Descent, visualize the cost function variations over iterations.
     
-    -- Data manipulation skills covered: Data type conversion, data append, vector computation, plot.
+    -- **Data manipulation skills covered:** Data type conversion, data append, vector computation, plot.
     
 
 - ### **Logistic Regression**
@@ -42,11 +42,11 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20Regression_2.ipynb)
     
-    -- Tasks performed: Read in CSV source file, visualize the two classes in scatter plot, cost function without regularization, cost function with regularization, Gradient Descent without regularization, Gradient Descent with regularization, BFGS implementation using the library, plot the linear decision boundary, make predictions with the optimal parameters, feature mapping, plot the non-linear decision boundary, visualize overfitting and underfitting with different regularization parameters.
+    -- **Tasks performed:** Read in CSV source file, visualize the two classes in scatter plot, cost function without regularization, cost function with regularization, Gradient Descent without regularization, Gradient Descent with regularization, BFGS implementation using the library, plot the linear decision boundary, make predictions with the optimal parameters, feature mapping, plot the non-linear decision boundary, visualize overfitting and underfitting with different regularization parameters.
     
-    -- Data manipulation skills covered: Data type conversion, transpose, horizontally stack data sets, scatter plot, data appended to lists.
+    -- **Data manipulation skills covered:** Data type conversion, transpose, horizontally stack data sets, scatter plot, data appended to lists.
     
-    -- Unsolved questions: 1) How to properly use the BFGS optimization function in Python --- minimize(fun, x0, args = (), method = "bfgs")?   2) How to write BFGS algorithm without the use of library? 
+    -- **Unsolved questions:** 1) How to properly use the BFGS optimization function in Python --- minimize(fun, x0, args = (), method = "bfgs")?   2) How to write BFGS algorithm without the use of library? 
 
 
 - ### **Multi-class Classification and Neural Networks**
