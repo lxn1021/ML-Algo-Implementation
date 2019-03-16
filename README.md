@@ -65,6 +65,12 @@ The course eassignment is performed in Octave software. I reproduced the same ta
 
     [Implementation in Python --- Neural Networks Learning](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20Networks%20Learning_2.ipynb)
     
+    -- **Tasks performed:** Load Matlab source file with higher dimensions, visualize the hand written digits, backpropagate algorithm to calculate the gradients, add regularization to the gradient, learning parameters by using the nonlinear conjugate gradient algorithm in the library, visualize the hidden layer.
+    
+    -- **Data manipulation skills covered:** Data type conversion, image display.
+    
+    -- **Unsolved questions:** 1) Unable to visualize higher dimensional data independently;   2) Theories relevant with backpropagate alrithm?   3) How to write conjugate gradient algorithm without the use of library?
+    
 
 
 
