@@ -93,15 +93,15 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
     
-    -- **Tasks performed:** Implement Sequential Minimal Optimization (SMO) algorithm to train SVM with linear kernel and visualize the linear boundary decision, implement SMO algorithm to train SVM with Gaussian kernel.
+    -- Tasks performed: Implement Sequential Minimal Optimization (SMO) algorithm to train SVM with linear kernel and visualize the linear boundary decision, implement SMO algorithm to train SVM with Gaussian kernel.
     
-    -- **Data manipulation skills covered:** Data type conversion, transform, iterations
+    -- Data manipulation skills covered: Data type conversion, transform, iterations
     
-    -- **Unsolved questions:** The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
+    -- Unsolved questions: The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
 
 
 - K-means Clustering and Principal Component Analysis
     
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.pdf)
+    [Lecture Slides 1](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2013.pdf)
     
     [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
