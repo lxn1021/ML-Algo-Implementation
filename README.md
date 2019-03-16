@@ -3,6 +3,7 @@
 This repository contains some entry-level Machine Learning knowledge taught by Andrew Ng on Coursera(https://www.coursera.org/learn/machine-learning?). 
 
 Topics covered by this course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression, Neaural Networks, Support Vector Machines), Clustering, Regularization, Overfitting, Bias/Variance,       
+
 Also, by taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, Normal Equation, Forward Propagation, Back Propagation,            More advanced optimization methods, such as Conjugate gradient, BFGS, L-BFGS, are not illustrated, since they are way more complicated. We're encouraged to use libraries, rather than write them ourselves unless you're an expert in numerical computing.
 
 The course eassignment is performed in Octave software. I reproduced the same task within Python in order to 1) get more familiar with Python syntax; 2) get a better intuition of the knowledge learnt.
