@@ -57,11 +57,11 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     [Implementation in Python --- Multi-class Classification and Neural Networks](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Multi-class%20Classification%20and%20Neural%20Networks_2.ipynb)
     
-    -- Tasks performed: Load Matlab source file with higher dimensions, visualize the hand written digits, build a multi-class classifier using the regularized logistic regression model, feedforward propagation and prediction. 
+    -- **Tasks performed:** Load Matlab source file with higher dimensions, visualize the hand written digits, build a multi-class classifier using the regularized logistic regression model, feedforward propagation and prediction. 
     
-    -- Data manipulation skills covered: Data type conversion, image display.
+    -- **Data manipulation skills covered:** Data type conversion, image display.
     
-    -- Unsolved questions: 1) Unable to visualize higher dimensional data independently;   2) Theories relevant with forward propagation algorithm?
+    -- **Unsolved questions:** 1) Unable to visualize higher dimensional data independently;   2) Theories relevant with forward propagation algorithm?
 
     [Implementation in Python --- Neural Networks Learning](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20Networks%20Learning_2.ipynb)
     
