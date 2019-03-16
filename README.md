@@ -4,7 +4,7 @@ This repository contains the basic Machine Learning knowledge taught by Andrew N
 
 Topics covered by this course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression, Neaural Networks, Support Vector Machines), Clustering, Dimensionality Reduction, Regularization, Overfitting, Bias/Variance.     
 
-Also, by taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, Normal Equation, Forward Propagation, Back Propagation, Simplified SMO Algorithm, K-means, Principal Component Analysis.            
+Also, by taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, Normal Equation, Forward Propagation, Back Propagation, Simplified Sequential Minimal Optimization (SMO) Algorithm, K-means, Principal Component Analysis.            
 
 More advanced optimization methods, such as Conjugate gradient, BFGS, L-BFGS, are not illustrated, since they are way more complicated. We're encouraged to use libraries, rather than write them ourselves unless you're an expert in numerical computing.
 
