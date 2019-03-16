@@ -14,7 +14,7 @@ The course eassignment is performed in Octave software. I reproduced the same ta
 
 **Below is the table of contents:**
 
-- Linear Regression with One Variable
+- **Linear Regression with One Variable**
 
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%202.pdf)
     
