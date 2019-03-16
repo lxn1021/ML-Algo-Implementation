@@ -10,7 +10,7 @@ More advanced optimization methods, such as Conjugate Gradient, BFGS, L-BFGS, et
 
 Decision Tree, another important classification method, is not covered by this course. So I picked it up in another Machine Learning course on Coursera.
 
-All the slides and data sets in this repository are from the course, without any change. All the Python programming work is made from scratch, based on the course assignment requirements. It's not completed perfectly, and still has a few unsolved questions. So, for now it's in the status of "under construction". :)
+All the slides and data sets in this repository are "course provided", without any change. All the Python programming work, however, is made from scratch, based on the course assignment requirements. It's not completed perfectly, and still has a few unsolved questions. So, for now it's in the status of "under construction". :)
 
 
 
