@@ -25,11 +25,11 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     Data manipulations skills covered: Data type conversion, scatter plot, contour plot, iteration. 
     
 
-- Linear Regression with Multiple Variables
+- **Linear Regression with Multiple Variables**
     
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20regression%20with%20multiple%20variables.pdf)
+    [Lecture Slids](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%204.pdf)
 
-    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20Multiple%20Variables_2.ipynb)
+    [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20Multiple%20Variables_2.ipynb)
     
 
 - Logistic Regression
