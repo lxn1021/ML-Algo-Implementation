@@ -36,11 +36,17 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- Data manipulation skills covered: Data type conversion, data append, vector computation, plot.
     
 
-- Logistic Regression
+- **Logistic Regression**
     
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20regression.pdf)
+    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%206.pdf)
     
-    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20Regression_2.ipynb)
+    [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20Regression_2.ipynb)
+    
+    -- Tasks performed: Read in CSV source file, visualize the two classes in scatter plot, cost function without regularization, cost function with regularization, Gradient Descent without regularization, Gradient Descent with regularization, BFGS implementation using the library, plot the linear decision boundary, make predictions with the optimal parameters, feature mapping, plot the non-linear decision boundary, visualize overfitting and underfitting with different regularization parameters.
+    
+    -- Data manipulation skills covered: Data type conversion, transpose, horizontally stack data sets, scatter plot, data appended to lists.
+    
+    -- Unsolved questions: 1) How to properly use the BFGS optimization function in Python --- minimize(fun, x0, args = (), method = "bfgs")?   2) How to write BFGS algorithm without the use of library? 
 
 
 - Multi-class Classification and Neural Networks
