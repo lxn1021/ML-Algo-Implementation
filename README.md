@@ -85,13 +85,19 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- **Unsolved questions:** How to write BFGS algorithm without the use of library?   
 
 
-- Support Vector Machines
+- ### **Support Vector Machines**
 
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.pdf)
+    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2012.pdf)
     
     [Simplified SMO Algorithms](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Simplified%20SMO%20Algorithm.pdf)
     
-    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
+    [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
+    
+    -- **Tasks performed:** Implement Sequential Minimal Optimization (SMO) algorithm to train SVM with linear kernel and visualize the linear boundary decision, implement SMO algorithm to train SVM with Gaussian kernel.
+    
+    -- **Data manipulation skills covered:** Data type conversion, transform, iterations
+    
+    -- **Unsolved questions:** The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
 
 
 - K-means Clustering and Principal Component Analysis
