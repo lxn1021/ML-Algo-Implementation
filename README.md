@@ -14,7 +14,7 @@ The course eassignment is performed in Octave software. I reproduced the same ta
 
 **Below is the table of contents:**
 
-- **Linear Regression with One Variable**
+- ### **Linear Regression with One Variable**
 
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%202.pdf)
     
@@ -36,7 +36,7 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- Data manipulation skills covered: Data type conversion, data append, vector computation, plot.
     
 
-- **Logistic Regression**
+- ### **Logistic Regression**
     
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%206.pdf)
     
@@ -49,9 +49,9 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- Unsolved questions: 1) How to properly use the BFGS optimization function in Python --- minimize(fun, x0, args = (), method = "bfgs")?   2) How to write BFGS algorithm without the use of library? 
 
 
-- Multi-class Classification and Neural Networks
+- ### **Multi-class Classification and Neural Networks**
     
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20networks.pdf)
+    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Neural%20networks.pdf)
     
     [Python Implementation --- Multi-class Classification and Neural Networks](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Multi-class%20Classification%20and%20Neural%20Networks_2.ipynb)
 
