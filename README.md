@@ -20,6 +20,9 @@ Below is the table of contents:
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20One%20Variable_2.ipynb)
     
+    Tasks performed: Read in CSV source file, Visualize the relationship between X and Y in scatter plot, Cost function implementation, Gradient Descent.
+    Data manipulations skills covered: Data type conversion, scatter plot, contour plot, iteration. 
+    
 
 - Linear Regression with Multiple Variables
     
