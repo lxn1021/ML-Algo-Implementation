@@ -44,7 +44,7 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     -- **Tasks performed:** Read in CSV source file, visualize the two classes in scatter plot, cost function without regularization, cost function with regularization, Gradient Descent without regularization, Gradient Descent with regularization, BFGS implementation using the library, plot the linear decision boundary, make predictions with the optimal parameters, feature mapping, plot the non-linear decision boundary, visualize overfitting and underfitting with different regularization parameters.
     
-    -- **Data manipulation skills covered:** Data type conversion, transpose, horizontally stack data sets, scatter plot, data appended to lists.
+    -- **Data manipulation skills covered:** Data type conversion, data transformation, horizontally stack data sets, scatter plot, data appended to lists.
     
     -- **Unsolved questions:** 1) How to properly use the BFGS optimization function in Python --- minimize(fun, x0, args = (), method = "bfgs")?   2) How to write BFGS algorithm without the use of library? 
 
@@ -80,7 +80,7 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     -- **Tasks performed:** Learning parameters by using BFGS algorithm in the library, plot learning curve, polynomial regression
     
-    -- **Data manipulation skills covered:** Data type conversion
+    -- **Data manipulation skills covered:** Data type conversion, data transformation.
     
     -- **Unsolved questions:** How to write BFGS algorithm without the use of library?   
 
@@ -93,15 +93,23 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
     
-    -- Tasks performed: Implement Sequential Minimal Optimization (SMO) algorithm to train SVM with linear kernel and visualize the linear boundary decision, implement SMO algorithm to train SVM with Gaussian kernel.
+    -- **Tasks performed:** Implement Sequential Minimal Optimization (SMO) algorithm to train SVM with linear kernel and visualize the linear boundary decision, implement SMO algorithm to train SVM with Gaussian kernel.
     
-    -- Data manipulation skills covered: Data type conversion, transform, iterations
+    -- **Data manipulation skills covered:** Data type conversion, transform, iterations.
     
-    -- Unsolved questions: The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
+    -- **Unsolved questions:** The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
 
 
 - K-means Clustering and Principal Component Analysis
     
     [Lecture Slides 1](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2013.pdf)
     
+    [Lecture Slides 2](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2014.pdf)
+   
     [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
+    
+    -- **Tasks performed:** Compute centroid means, run K-means and visualize the progress, image compression with K-means, use Principal Component Analysis (PCA) to perform dimensionality reduction, project data and visualize the projection.
+    
+    -- **Data manipulation skills covered:** Data type conversion, data transformation, display image.
+    
+    -- **Unsolved questions:** 1) The mathematics behind PCA?   2) The clustering progress doesn't seem very reasonable.
