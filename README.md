@@ -72,13 +72,17 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- **Unsolved questions:** 1) Unable to visualize higher dimensional data independently;   2) Theories relevant with backpropagate alrithm?   3) How to write conjugate gradient algorithm without the use of library?
     
 
+- ### **Regularized Linear Regression and Bias v.s. Variance**
 
-
-- Regularized Linear Regression and Bias v.s. Variance
-
-    [Formula](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20linear%20regression%20and%20bias%20v.s.%20variance.pdf)
+    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2010.pdf)
     
-    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance_2.ipynb)
+    [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance_2.ipynb)
+    
+    -- **Tasks performed:** Learning parameters by using BFGS algorithm in the library, plot learning curve, polynomial regression
+    
+    -- **Data manipulation skills covered:** Data type conversion
+    
+    -- **Unsolved questions:** How to write BFGS algorithm without the use of library?   
 
 
 - Support Vector Machines
