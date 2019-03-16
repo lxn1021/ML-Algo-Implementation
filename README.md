@@ -1,6 +1,6 @@
 ## **Coursera Online Course --- Machine Learning by Andrew Ng**
 
-This repository contains some entry-level Machine Learning knowledge taught by Andrew Ng on Coursera(https://www.coursera.org/learn/machine-learning?). 
+This repository contains the basic Machine Learning knowledge taught by Andrew Ng on Coursera(https://www.coursera.org/learn/machine-learning?). 
 
 Topics covered by this course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression, Neaural Networks, Support Vector Machines), Clustering, Dimensionality Reduction, Regularization, Overfitting, Bias/Variance.     
 
