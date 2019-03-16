@@ -1,14 +1,14 @@
 ## **Coursera Online Course --- Machine Learning by Andrew Ng**
 
-This repository contains the basic Machine Learning knowledge taught by Andrew Ng on Coursera(https://www.coursera.org/learn/machine-learning?). 
+This repository contains the lecture slides of Machine Learning course by Andrew Ng on Coursera(https://www.coursera.org/learn/machine-learning?), and some programming work based on it. The course assignment is originally performed in Octave software. I reproduced the same tasks in Python in order to 1) get more familiar with Python syntax; 2) get a better intuition of the knowledge learnt.
 
-Topics covered by this course include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression, Neaural Networks, Support Vector Machines), Clustering, Dimensionality Reduction, Regularization, Overfitting, Bias/Variance.     
+Topics covered by the slides include: Regression (Linear Regression with One Variable, Linear Regression with Multiple Variables), Classification (Logistic Regression, Neaural Networks, Support Vector Machines), Clustering, Dimensionality Reduction, Regularization, Bias/Variance Tradeoff.     
 
-Also, by taking this course, I've acquired intuition on Cost Function, Model Representation, and implementation of some basic algorithms, including Batch Gradient Descent, Normal Equation, Forward Propagation, Back Propagation, Simplified Sequential Minimal Optimization (SMO) Algorithm, K-means, Principal Component Analysis.            
+Basic algorithms covered by the course include: Batch Gradient Descent, Normal Equation, Forward Propagation, Back Propagation, Simplified Sequential Minimal Optimization (SMO) Algorithm, K-means, Principal Component Analysis.            
 
-More advanced optimization methods, such as Conjugate gradient, BFGS, L-BFGS, are not illustrated, since they are way more complicated. We're encouraged to use libraries, rather than write them ourselves unless you're an expert in numerical computing.
+More advanced optimization methods, such as Conjugate Gradient, BFGS, L-BFGS, etc., are not illustrated, since they are way more complicated. We're encouraged to use libraries, rather than write them ourselves unless you're an expert in numerical computing.
 
-The course eassignment is performed in Octave software. I reproduced the same task within Python in order to 1) get more familiar with Python syntax; 2) get a better intuition of the knowledge learnt.
+Decision Tree, another classification method, is not covered by this course. So I picked it up in another Machine Learning course on Coursera.
 
 
 
