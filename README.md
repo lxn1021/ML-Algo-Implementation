@@ -8,7 +8,7 @@ Basic algorithms covered by the course include: Batch Gradient Descent, Normal E
 
 More advanced optimization methods, such as Conjugate Gradient, BFGS, L-BFGS, etc., are not illustrated, since they are way more complicated. We're encouraged to use libraries, rather than write them ourselves unless you're an expert in numerical computing.
 
-Decision Tree, another classification method, is not covered by this course. So I picked it up in another Machine Learning course on Coursera.
+Decision Tree, another important classification method, is not covered by this course. So I picked it up in another Machine Learning course on Coursera.
 
 
 
