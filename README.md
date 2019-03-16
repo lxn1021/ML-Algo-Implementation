@@ -100,13 +100,13 @@ The course eassignment is performed in Octave software. I reproduced the same ta
     -- **Unsolved questions:** The computation of Gaussin kernel failed, because it was running forever.... How to compute Gaussin kernel efficiently and correctly? 
 
 
-- K-means Clustering and Principal Component Analysis
+- ### **K-means Clustering and Principal Component Analysis**
     
     [Lecture Slides 1](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2013.pdf)
     
     [Lecture Slides 2](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2014.pdf)
    
-    [Python Implementation](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
+    [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
     
     -- **Tasks performed:** Compute centroid means, run K-means and visualize the progress, image compression with K-means, use Principal Component Analysis (PCA) to perform dimensionality reduction, project data and visualize the projection.
     
