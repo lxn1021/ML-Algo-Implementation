@@ -10,6 +10,8 @@ More advanced optimization methods, such as Conjugate gradient, BFGS, L-BFGS, ar
 
 The course eassignment is performed in Octave software. I reproduced the same task within Python in order to 1) get more familiar with Python syntax; 2) get a better intuition of the knowledge learnt.
 
+
+
 Below is the table of contents:
 
 - Linear Regression with One Variable
