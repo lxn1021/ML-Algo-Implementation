@@ -40,7 +40,9 @@ All the slides and data sets in this repository are "course provided", without a
 
 - ### **Logistic Regression**
     
-    [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%206.pdf)
+    [Lecture Slides_1](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%206.pdf)
+    
+    [Lecture Slides_2](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/lecture%207.pdf)
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20Regression_2.ipynb)
     
