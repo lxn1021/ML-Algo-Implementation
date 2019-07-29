@@ -110,7 +110,7 @@ All the slides and data sets in this repository are "course provided", without a
     
     [Lecture Slides 2](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2014.pdf)
     
-    [Instructions_1](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex7.pdf)
+    [Instructions](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex7.pdf)
    
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
     
