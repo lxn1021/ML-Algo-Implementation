@@ -48,6 +48,8 @@ All the slides and data sets in this repository are "course provided", without a
     
     [Lecture Slides_2](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/lecture%207.pdf)
     
+    [Instructions](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex2.pdf)
+    
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Logistic%20Regression_2.ipynb)
     
     -- **Tasks performed:** Read in CSV source file, visualize the two classes in scatter plot, cost function without regularization, cost function with regularization, Gradient Descent without regularization, Gradient Descent with regularization, BFGS implementation using the library, plot the linear decision boundary, make predictions with the optimal parameters, feature mapping, plot the non-linear decision boundary, visualize overfitting and underfitting with different regularization parameters.
