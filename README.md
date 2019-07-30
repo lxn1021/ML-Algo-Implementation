@@ -65,6 +65,8 @@ All the slides and data sets in this repository are "course provided", without a
     
     [Lecture Slides 2](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%209.pdf)
     
+    [Instructions_1](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex3.pdf)
+    
     [Implementation in Python --- Multi-class Classification and Neural Networks](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Multi-class%20Classification%20and%20Neural%20Networks_2.ipynb)
     
     -- **Tasks performed:** Load Matlab source file with higher dimensions, visualize the hand written digits, build a multi-class classifier using the regularized logistic regression model, feedforward propagation and prediction. 
