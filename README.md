@@ -90,6 +90,8 @@ All the slides and data sets in this repository are "course provided", without a
 
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2010.pdf)
     
+    [Instructions]()
+    
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance_2.ipynb)
     
     -- **Tasks performed:** Learning parameters by using BFGS algorithm in the library, plot learning curve, polynomial regression
