@@ -20,6 +20,8 @@ All the slides and data sets in this repository are "course provided", without a
 
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%202.pdf)
     
+    [Instructions](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex1.pdf)
+    
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20One%20Variable_2.ipynb)
     
     -- **Tasks performed:** Read in CSV source file, visualize the relationship between X and Y in scatter plot, cost function implementation, Gradient Descent.
@@ -30,6 +32,8 @@ All the slides and data sets in this repository are "course provided", without a
 - ### **Linear Regression with Multiple Variables**
     
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%204.pdf)
+    
+    [Instructions](https://github.com/lxn1021/Machine-Learning-Online-Course-Coursera-Stanford---in-Python/blob/master/ex1.pdf)
 
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Linear%20Regression%20with%20Multiple%20Variables_2.ipynb)
     
