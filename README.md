@@ -105,6 +105,8 @@ All the slides and data sets in this repository are "course provided", without a
 
     [Lecture Slides](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/lecture%2012.pdf)
     
+    [Instructions]()
+    
     [Simplified SMO Algorithms](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Simplified%20SMO%20Algorithm.pdf)
     
     [Implementation in Python](https://github.com/lxn1021/Notes-Machine-Learning-Course-by-Andrew-Ng/blob/master/Support%20Vector%20Machines.ipynb)
